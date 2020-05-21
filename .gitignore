@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.pytest_cache/
+__pycache__/
+main.py
+output.xml
+requirements.txt
+stdout.txt
+test_main.py
